@@ -1,4 +1,4 @@
-# Station line service
+# Station service status
 A [tweepy](https://www.tweepy.org/) powered line service bot that pulls data via the [TFL](https://api.tfl.gov.uk/) API which uses the datafeeds from [Network Rail](https://datafeeds.networkrail.co.uk/) for overground information. This is then processed via tweepy to tweet to twitter.
 
 ## Example
