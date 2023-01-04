@@ -1,4 +1,4 @@
-# Station service status
+# Station service status (UK National Rail)
 A twitter station bot that uses [Tweepy](https://www.tweepy.org/) library to tweet up to date information about trains running through the target station. This data is pulled from DARWIN via [Huxley2](https://github.com/jpsingleton/Huxley2), then processed in python and pushed to Tweepy.
 
 Please note that `status-tlf-api.py` is an outdated version or version 1 of this bot, this was pulling information via the TFL API, processing via python and pushing to twitter via Tweepy.
