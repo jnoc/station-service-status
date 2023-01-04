@@ -6,7 +6,7 @@ Please note that `status-tlf-api.py` is an outdated version or version 1 of this
 ## AshteadRail bot
 
 <div align="center">
-  <img src="https://i.imgur.com/fIloKQp.png">
+  <img src="https://i.imgur.com/ko942kr.png">
 </div>
 
 ## About `status-huxley2.py`
