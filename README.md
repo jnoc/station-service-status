@@ -8,7 +8,7 @@ A twitter station bot that uses [Tweepy](https://www.tweepy.org/) library to twe
   <img src="https://i.imgur.com/fIloKQp.png">
 </div>
 
-## About
+## About `status-tlf-api.py`
 This is the bot that I set up for my local station [@AshteadRail](https://twitter.com/AshteadRail). It utilises crontab to execute the python file 5am through to 1am, this then repeats on a day to day basis. This was only made for my travel convenience when communting to and from London.
 
 The script is made to output:
